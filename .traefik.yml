@@ -1,0 +1,14 @@
+displayName: Referer Plugin
+type: middleware
+
+
+import: github.com/moonlightwatch/referer
+
+summary: '[Middleware] referer control.'
+
+testData:
+  Type: white
+  EmptyReferer: true
+  Domains:
+    - "*.baidu.com"
+    - "google.com"
