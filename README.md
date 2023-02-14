@@ -11,7 +11,7 @@ experimental:
   plugins:
     referer:
         moduleName: github.com/moonlightwatch/referer
-        version: v0.1.4
+        version: v0.1.2
 ```
 
 ```yaml
