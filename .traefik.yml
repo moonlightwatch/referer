@@ -1,10 +1,11 @@
 displayName: Referer Plugin
+
 type: middleware
 
 
 import: github.com/moonlightwatch/referer
 
-summary: '[Middleware] referer control.'
+summary: restrict access by referer
 
 testData:
   Type: white
