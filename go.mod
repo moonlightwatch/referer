@@ -1,4 +1,4 @@
-module referer
+module github.com/moonlightwatch/referer
 
 go 1.19
 

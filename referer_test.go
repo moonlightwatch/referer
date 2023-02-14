@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"referer"
+	"github.com/moonlightwatch/referer"
 
 	"gotest.tools/assert"
 )
